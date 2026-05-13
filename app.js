@@ -19,19 +19,23 @@ const restaurants = [
 
 const container = document.getElementById("menus")
 
-restaurants.forEach(r => {
+restaurants.forEach(function(r) {
   const card = document.createElement("div")
 
   card.style.border = "1px solid black"
   card.style.margin = "10px"
   card.style.padding = "10px"
 
-  card.innerHTML = `
-    <h2>${r.name}</h2>
-    <a href="${r.url}" target="_blank">
-      Avaa lounaslista
-    </a>
-  `
+  const title = document.createElement("h2")
+  title.textContent = r.name
+
+  const link = document.createElement("a")
+  link.href = r.url
+  link.target = "_blank"
+  link.textContent = "Avaa lounaslista"
+
+  card.appendChild(title)
+  card.appendChild(link)
 
   container.appendChild(card)
 })
