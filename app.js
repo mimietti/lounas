@@ -1,5 +1,4 @@
-alert("v2")
-  const restaurants = [
+const restaurants = [
   {
     name: "Ravintola Lokki",
     url: "https://ravintolalokki.fi/"
@@ -23,7 +22,9 @@ const container = document.getElementById("menus")
 restaurants.forEach(r => {
   const card = document.createElement("div")
 
-  card.className = "card"
+  card.style.border = "1px solid black"
+  card.style.margin = "10px"
+  card.style.padding = "10px"
 
   card.innerHTML = `
     <h2>${r.name}</h2>
