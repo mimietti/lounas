@@ -1,4 +1,4 @@
-alert("APP JS LOADED")
+alert("v2")
   const restaurants = [
   {
     name: "Ravintola Lokki",
