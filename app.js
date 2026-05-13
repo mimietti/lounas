@@ -1,4 +1,5 @@
-const restaurants = [
+alert("APP JS LOADED")
+  const restaurants = [
   {
     name: "Ravintola Lokki",
     url: "https://ravintolalokki.fi/lounas-lahdessa/"
