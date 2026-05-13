@@ -1,6 +1,6 @@
 const restaurants = [
   {
-    name: "Ravintola Lokki",
+    name: "Lokki",
     url: "https://ravintolalokki.fi/"
   },
   {
@@ -8,11 +8,15 @@ const restaurants = [
     url: "https://www.sibeliustalo.fi/ravintolat/viikon-lounaslista/"
   },
   {
+    name: "Kokka",
+    url: "https://bistrokokka.fi/#lounaslista"
+  },
+  {
     name: "Einstein",
     url: "https://lounasravintolaeinstein.com/lounas/"
   },
   {
-    name: "ISKU Center M19",
+    name: "ISKU Center",
     url: "https://www.compass-group.fi/ravintolat-ja-ruokalistat/foodco/kaupungit/lahti/isku-center/"
   }
 ]
