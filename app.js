@@ -14,7 +14,7 @@ alert("v2")
   },
   {
     name: "ISKU Center M19",
-    url: https://www.compass-group.fi/ravintolat-ja-ruokalistat/foodco/kaupungit/lahti/isku-center/"
+    url: "https://www.compass-group.fi/ravintolat-ja-ruokalistat/foodco/kaupungit/lahti/isku-center/"
   }
 ]
 
