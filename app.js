@@ -13,8 +13,8 @@ alert("APP JS LOADED")
     url: "https://lounasravintolaeinstein.com/lounas/"
   },
   {
-    name: "KU Center M19",
-    url: "https://kucenter.fi/m19-food-market/"
+    name: "ISKU Center M19",
+    url: "https://iskucenter.fi/m19-food-market/"
   }
 ]
 
