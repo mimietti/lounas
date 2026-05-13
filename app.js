@@ -2,7 +2,7 @@ alert("APP JS LOADED")
   const restaurants = [
   {
     name: "Ravintola Lokki",
-    url: "https://ravintolalokki.fi/lounas-lahdessa/"
+    url: "https://ravintolalokki.fi/"
   },
   {
     name: "Sibeliustalo",
@@ -14,7 +14,7 @@ alert("APP JS LOADED")
   },
   {
     name: "ISKU Center M19",
-    url: "https://iskucenter.fi/m19-food-market/"
+    url: https://www.compass-group.fi/ravintolat-ja-ruokalistat/foodco/kaupungit/lahti/isku-center/"
   }
 ]
 
