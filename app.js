@@ -18,7 +18,7 @@ const restaurants = [
   {
     name: "ISKU Center",
     url: "https://www.compass-group.fi/ravintolat-ja-ruokalistat/foodco/kaupungit/lahti/isku-center/"
-  } ,
+  },
   {
     name: "Kaarlo",
     url: "https://www.kaarlosocial.fi/lounas"
