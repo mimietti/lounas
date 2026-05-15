@@ -24,7 +24,7 @@ const restaurants = [
     url: "https://www.kaarlosocial.fi/lounas"
   },
   {
-    name: "Mänty
+    name: "Mänty"
     url: "https://lounasravintolamanty.fi/lounas/"
   },
   {
